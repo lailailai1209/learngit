@@ -4,4 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 aaaa
-aaaa
+
+xxx
+
+xcc
