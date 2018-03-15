@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ec04296-c7cc-470f-a29e-4ef8cd36806a" name="Default" comment="hou" />
+    <list default="true" id="263a8763-bebc-4ee3-91bb-b1646ffdba0c" name="Default" comment="weiwei">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/wei.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wei.txt" afterPath="$PROJECT_DIR$/wei.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.txt">
+      <file leaf-file-name="license" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/license">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <state relative-caret-position="45">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -25,17 +31,7 @@
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hou.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hou.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,7 +41,17 @@
         <entry file="file://$PROJECT_DIR$/wei.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weiwei.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weiwei.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -64,8 +70,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/weiwei.txt" />
         <option value="$PROJECT_DIR$/wei.txt" />
       </list>
     </option>
@@ -105,26 +111,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hou" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hou" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="wei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wei" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,7 +133,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wei" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -148,7 +149,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wei.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/readme.txt</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -347,132 +348,146 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ec04296-c7cc-470f-a29e-4ef8cd36806a" name="Default" comment="" />
-      <created>1521010284448</created>
+      <changelist id="263a8763-bebc-4ee3-91bb-b1646ffdba0c" name="Default" comment="" />
+      <created>1521010295449</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1521010284448</updated>
-      <workItem from="1521010286302" duration="2310000" />
-      <workItem from="1521029300358" duration="2452000" />
-      <workItem from="1521081345129" duration="2914000" />
+      <updated>1521010295449</updated>
+      <workItem from="1521010297292" duration="3130000" />
+      <workItem from="1521029306556" duration="2614000" />
+      <workItem from="1521081347268" duration="2764000" />
     </task>
-    <task id="LOCAL-00001" summary="add git.txt">
-      <created>1521010385647</created>
+    <task id="LOCAL-00001" summary="add">
+      <created>1521010837112</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1521010385647</updated>
+      <updated>1521010837112</updated>
     </task>
-    <task id="LOCAL-00002" summary="add git.txt">
-      <created>1521010621234</created>
+    <task id="LOCAL-00002" summary="add">
+      <created>1521013623686</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1521010621234</updated>
+      <updated>1521013623686</updated>
     </task>
-    <task id="LOCAL-00003" summary="add git.txt">
-      <created>1521013688437</created>
+    <task id="LOCAL-00003" summary="add">
+      <created>1521013732448</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1521013688437</updated>
+      <updated>1521013732448</updated>
     </task>
-    <task id="LOCAL-00004" summary="add git.txt">
-      <created>1521029506854</created>
+    <task id="LOCAL-00004" summary="add">
+      <created>1521029318802</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1521029506854</updated>
+      <updated>1521029318802</updated>
     </task>
-    <task id="LOCAL-00005" summary="add git.txt">
-      <created>1521029759947</created>
+    <task id="LOCAL-00005" summary="add">
+      <created>1521029426653</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1521029759947</updated>
+      <updated>1521029426653</updated>
     </task>
-    <task id="LOCAL-00006" summary="add git.txt">
-      <created>1521029944745</created>
+    <task id="LOCAL-00006" summary="xxxx">
+      <created>1521029589747</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1521029944746</updated>
+      <updated>1521029589747</updated>
     </task>
-    <task id="LOCAL-00007" summary="add git.txt">
-      <created>1521030501993</created>
+    <task id="LOCAL-00007" summary="xxxx">
+      <created>1521029672752</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1521030501993</updated>
+      <updated>1521029672752</updated>
     </task>
-    <task id="LOCAL-00008" summary="add git.txt">
-      <created>1521082181992</created>
+    <task id="LOCAL-00008" summary="xxxx">
+      <created>1521029721776</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1521082181992</updated>
+      <updated>1521029721776</updated>
     </task>
-    <task id="LOCAL-00009" summary="add git.txt">
-      <created>1521082211711</created>
+    <task id="LOCAL-00009" summary="xxxx">
+      <created>1521030179556</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1521082211711</updated>
+      <updated>1521030179556</updated>
     </task>
-    <task id="LOCAL-00010" summary="add git.txt">
-      <created>1521082255343</created>
+    <task id="LOCAL-00010" summary="xxxx">
+      <created>1521082129042</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1521082255343</updated>
+      <updated>1521082129042</updated>
     </task>
-    <task id="LOCAL-00011" summary="add git.txt">
-      <created>1521082567548</created>
+    <task id="LOCAL-00011" summary="xxxx">
+      <created>1521082364549</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1521082567548</updated>
+      <updated>1521082364549</updated>
     </task>
-    <task id="LOCAL-00012" summary="add git.txt">
-      <created>1521082786818</created>
+    <task id="LOCAL-00012" summary="xxxx">
+      <created>1521082517724</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1521082786818</updated>
+      <updated>1521082517724</updated>
     </task>
-    <task id="LOCAL-00013" summary="hou">
-      <created>1521083282282</created>
+    <task id="LOCAL-00013" summary="xxxx">
+      <created>1521082718338</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1521083282282</updated>
+      <updated>1521082718338</updated>
     </task>
-    <task id="LOCAL-00014" summary="hou">
-      <created>1521083340822</created>
+    <task id="LOCAL-00014" summary="Merge branch 'master' of https://github.com/lailailai1209/learngit&#10;&#10;# Conflicts:&#10;#&#9;readme.txt">
+      <created>1521083225257</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1521083340822</updated>
+      <updated>1521083225257</updated>
     </task>
-    <task id="LOCAL-00015" summary="hou">
-      <created>1521083698715</created>
+    <task id="LOCAL-00015" summary="Merge branch 'master' of https://github.com/lailailai1209/learngit&#10;&#10;# Conflicts:&#10;#&#9;readme.txt">
+      <created>1521083314049</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1521083698715</updated>
+      <updated>1521083314049</updated>
     </task>
-    <task id="LOCAL-00016" summary="hou">
-      <created>1521084350180</created>
+    <task id="LOCAL-00016" summary="add wei.txt">
+      <created>1521083508075</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1521084350180</updated>
+      <updated>1521083508075</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add wei.txt">
+      <created>1521083638994</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1521083638994</updated>
+    </task>
+    <task id="LOCAL-00018" summary="weiwei">
+      <created>1521084038143</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1521084038143</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7676000" />
+    <option name="totallyTimeSpent" value="8508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
@@ -483,10 +498,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27641279" sideWeight="0.50651467" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27641279" sideWeight="0.49348533" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -513,35 +528,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add git.txt" />
-    <MESSAGE value="hou" />
-    <option name="LAST_COMMIT_MESSAGE" value="hou" />
+    <MESSAGE value="add" />
+    <MESSAGE value="xxxx" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/lailailai1209/learngit&#10;&#10;# Conflicts:&#10;#&#9;readme.txt" />
+    <MESSAGE value="add wei.txt" />
+    <MESSAGE value="weiwei" />
+    <option name="LAST_COMMIT_MESSAGE" value="weiwei" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.txt">
+    <entry file="file://$PROJECT_DIR$/license">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        <state relative-caret-position="45">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="495">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
+    <entry file="file://$PROJECT_DIR$/license">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        <state relative-caret-position="45">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -549,15 +567,15 @@
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
+    <entry file="file://$PROJECT_DIR$/license">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        <state relative-caret-position="45">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -565,15 +583,15 @@
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hou.txt">
+    <entry file="file://$PROJECT_DIR$/weiwei.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -581,7 +599,7 @@
     <entry file="file://$PROJECT_DIR$/wei.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>
